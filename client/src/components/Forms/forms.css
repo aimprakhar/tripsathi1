@@ -1,0 +1,21 @@
+.form-control{
+    height:50px;
+
+}
+form{
+    margin-left: 40%;
+    margin-top: 20vh;
+}
+input{
+    margin-left:30px;
+    border:2px solid red;
+    height:30px;
+    border-radius: 5px;;
+}
+.btn{
+    margin-left: 15%; 
+    background-color: cyan;
+    height:40px;
+    width:100px;
+    border-radius: 10px;;
+}
